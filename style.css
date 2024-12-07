@@ -1,0 +1,25 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+.hero-section {
+  background: #007bff;
+  color: white;
+  text-align: center;
+  padding: 60px 0;
+}
+.card-custom {
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.footer {
+  background-color: #f1f1f1;
+  text-align: center;
+  padding: 20px 0;
+  margin-top: 40px;
+}
+/* Diseño responsive */
+@media (max-width: 768px) {
+  .hero-section {
+    padding: 40px 0;
+  }
+}
