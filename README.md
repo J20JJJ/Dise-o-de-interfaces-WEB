@@ -31,13 +31,23 @@ El proyecto **Ruleta de Habilidades (Peaks)** está diseñado para el juego **De
 
 ## Guía de Estilos
 
-### Estilos
+### Estilos Visuales
 
-El diseño visual del proyecto se basa en **Bootstrap 5**. No se definieron colores personalizados, ya que se usaron los estilos predeterminados del propio **Bootstrap 5** para botones, imágenes y otros componentes. Todo el diseño se apoya en las clases prediseñadas que proporciona Bootstrap, como `img-thumbnail`, `btn`, y `container`, entre otras.
+El diseño visual del proyecto se basa en **Bootstrap 5** combinado con imágenes personalizadas para el fondo principal y los elementos de la ruleta.
+
+#### Fondo Principal
+- **Imagen utilizada**: La imagen de textura oscura (*bgsmoke.jpg*), que aporta un ambiente misterioso y sombrío, alineado con la atmósfera del juego **Dead by Daylight**.
+- **Colores predominantes**: Tonos oscuros y grisáceos, que ayudan a destacar los elementos visuales en primer plano.
+- **Justificación**: Este fondo añade inmersión al entorno del proyecto y permite un diseño limpio y centrado en los elementos funcionales.
+
+#### Fondo de las Peaks
+- **Imagen utilizada**: El rombo anaranjado (*teachable.png*), que se coloca como fondo de las habilidades que aparecen en la ruleta.
+- **Colores predominantes**: Anaranjado oscuro con detalles negros, inspirado en los colores característicos de **Dead by Daylight**, generando coherencia visual.
+- **Justificación**: Este fondo resalta las habilidades seleccionadas al ofrecer un contraste llamativo contra el fondo oscuro general.
 
 ### Tipografía
 
-El proyecto no utiliza fuentes personalizadas.
+El proyecto no utiliza fuentes personalizadas. Los textos utilizan las tipografías predeterminadas de **Bootstrap 5**, asegurando un diseño minimalista y funcional.
 
 ## Consideraciones Técnicas
 
