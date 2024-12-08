@@ -1,25 +1,49 @@
 body {
   font-family: 'Roboto', sans-serif;
+  background-image: url('/img/bgsmoke.jpg');
+  overflow-x: hidden;
 }
-.hero-section {
-  background: #007bff;
-  color: white;
-  text-align: center;
-  padding: 60px 0;
+
+.img-container img {
+  cursor: pointer;
 }
-.card-custom {
-  border-radius: 15px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+.img-container img:hover {
+  transform: scale(1.1);
 }
-.footer {
-  background-color: #f1f1f1;
-  text-align: center;
-  padding: 20px 0;
-  margin-top: 40px;
+
+.img-thumbnail {
+  background-image: url('/img/bgsmoke.jpg');
 }
-/* Diseño responsive */
+
+@keyframes ruleta-animacion {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.ruleta-img.girar {
+  animation: ruleta-animacion 4s ease-out;
+}
+
+
+.ruleta-img {
+  background-image: url('/img/teachable.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
 @media (max-width: 768px) {
-  .hero-section {
-    padding: 40px 0;
+  .navbar {
+    background-color: #333;
+  }
+
+  .img-thumbnail {
+    max-width: 80%;
   }
 }
