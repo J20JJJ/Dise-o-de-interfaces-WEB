@@ -1,5 +1,5 @@
     // Función para cargar las imágenes de acuerdo con la categoría
-    function cargar_Perks(categoria, cantidad) {
+    function cargar_peaks(categoria, cantidad) {
         const imgContainer = document.getElementById('img-container');
         const selectedContainer = document.getElementById('selected-images-list');
   
@@ -117,4 +117,4 @@
         }, 4000); // 4000 ms = 4 segundos (tiempo de duración de la animación)
       }
   
-      cargar_Perks(1, 12);
+      cargar_peaks(1, 12);

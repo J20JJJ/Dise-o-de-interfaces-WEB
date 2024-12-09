@@ -1,8 +1,8 @@
-# Memoria del Proyecto: Ruleta de Habilidades (Perks)
+# Memoria del Proyecto: Ruleta de Habilidades (Peaks)
 
 ## Introducción
 
-El proyecto **Ruleta de Habilidades (Perks)** está diseñado para el juego **Dead by Daylight** y permite a los jugadores seleccionar habilidades aleatorias, denominadas *Perks*, a partir de diferentes categorías, como *Survi* y *Killer*. Este proyecto utiliza **HTML**, **CSS**, **JavaScript** y el framework **Bootstrap 5** para garantizar que la interfaz sea responsiva y fácil de usar en diversos dispositivos. El objetivo principal de este proyecto es proporcionar una forma divertida e interactiva de elegir las habilidades de manera aleatoria, mejorando la experiencia del usuario.
+El proyecto **Ruleta de Habilidades (Peaks)** está diseñado para el juego **Dead by Daylight** y permite a los jugadores seleccionar habilidades aleatorias, denominadas *peaks*, a partir de diferentes categorías, como *Survi* y *Killer*. Este proyecto utiliza **HTML**, **CSS**, **JavaScript** y el framework **Bootstrap 5** para garantizar que la interfaz sea responsiva y fácil de usar en diversos dispositivos. El objetivo principal de este proyecto es proporcionar una forma divertida e interactiva de elegir las habilidades de manera aleatoria, mejorando la experiencia del usuario.
 
 ## Metodología
 
@@ -40,7 +40,7 @@ El diseño visual del proyecto se basa en **Bootstrap 5** combinado con imágene
 - **Colores predominantes**: Tonos oscuros y grisáceos, que ayudan a destacar los elementos visuales en primer plano.
 - **Justificación**: Este fondo añade inmersión al entorno del proyecto y permite un diseño limpio y centrado en los elementos funcionales.
 
-#### Fondo de las Perks
+#### Fondo de las Peaks
 - **Imagen utilizada**: El rombo anaranjado (*teachable.png*), que se coloca como fondo de las habilidades que aparecen en la ruleta.
 - **Colores predominantes**: Anaranjado oscuro con detalles negros, inspirado en los colores característicos de **Dead by Daylight**, generando coherencia visual.
 - **Justificación**: Este fondo resalta las habilidades seleccionadas al ofrecer un contraste llamativo contra el fondo oscuro general.
@@ -99,7 +99,7 @@ El proyecto ha sido probado en los siguientes navegadores populares:
 
 ## Conclusión
 
-El proyecto **Ruleta de Habilidades (Perks)** es una implementación interactiva y funcional para la selección aleatoria de habilidades en el juego **Dead by Daylight**. Gracias a la utilización de **HTML5**, **CSS**, **JavaScript** y **Bootstrap 5**, se ha logrado crear una interfaz atractiva, accesible y completamente responsiva.
+El proyecto **Ruleta de Habilidades (Peaks)** es una implementación interactiva y funcional para la selección aleatoria de habilidades en el juego **Dead by Daylight**. Gracias a la utilización de **HTML5**, **CSS**, **JavaScript** y **Bootstrap 5**, se ha logrado crear una interfaz atractiva, accesible y completamente responsiva.
 
 Aunque el proyecto está completamente funcional, se recomienda seguir realizando pruebas en dispositivos adicionales y ajustar algunos detalles de la interfaz para mejorar aún más la experiencia del usuario.
 
