@@ -13,6 +13,7 @@ El proyecto **Ruleta de Habilidades (Perks)** está diseñado para el juego **De
 3. **Bootstrap 5**: Framework utilizado para el diseño responsivo y la creación de una maquetación estructurada y eficiente, sin necesidad de escribir un CSS complejo desde cero.
 4. **JavaScript**: Para la lógica de la ruleta, la selección dinámica de imágenes y la interacción con el usuario.
 5. **Git & GitHub**: Para el control de versiones y almacenamiento del código en la nube, facilitando el acceso al proyecto desde cualquier dispositivo.
+6. **ResponsivelyApp**: Herramienta utilizada para visualizar y probar el diseño del sitio web en diferentes tamaños y dispositivos de manera simultánea, asegurando que la interfaz se adapte correctamente a diversas resoluciones y proporcionando una experiencia de usuario óptima en dispositivos móviles, tabletas y computadoras de escritorio.
 
 ### Fases de Desarrollo
 
@@ -36,14 +37,49 @@ El proyecto **Ruleta de Habilidades (Perks)** está diseñado para el juego **De
 El diseño visual del proyecto se basa en **Bootstrap 5** combinado con imágenes personalizadas para el fondo principal y los elementos de la ruleta.
 
 #### Fondo Principal
-- **Imagen utilizada**: La imagen de textura oscura (*bgsmoke.jpg*), que aporta un ambiente misterioso y sombrío, alineado con la atmósfera del juego **Dead by Daylight**.
+- **Imagen utilizada**:
+
+<div style="display: flex; align-items: center;">
+  <img src="img/bgsmoke.jpg" alt="Imagen de fondo de la pagina" width="300" style="border: 1px solid white; margin-right: 15px;">
+  <p>
+    La imagen de textura oscura (<em>bgsmoke.jpg</em>), que aporta un ambiente misterioso y sombrío, alineado con la atmósfera del juego <strong>Dead by Daylight</strong>.
+  </p>
+</div>
+
 - **Colores predominantes**: Tonos oscuros y grisáceos, que ayudan a destacar los elementos visuales en primer plano.
 - **Justificación**: Este fondo añade inmersión al entorno del proyecto y permite un diseño limpio y centrado en los elementos funcionales.
 
-#### Fondo de las Perks
-- **Imagen utilizada**: El rombo anaranjado (*teachable.png*), que se coloca como fondo de las habilidades que aparecen en la ruleta.
+#### Fondo de las Perks seleccionadas por la ruleta
+- **Imagen utilizada**: 
+  
+<div style="display: flex; align-items: center;">
+  <img src="img/teachable.png" alt="Imagen de fondo de Perks seleccionadas por la ruleta" width="300" style="border: 1px solid white; margin-right: 15px;">
+  <p>
+    El rombo anaranjado (<em>teachable.png</em>), que se coloca como fondo de las habilidades que aparecen en la ruleta.
+  </p>
+</div>
+
 - **Colores predominantes**: Anaranjado oscuro con detalles negros, inspirado en los colores característicos de **Dead by Daylight**, generando coherencia visual.
-- **Justificación**: Este fondo resalta las habilidades seleccionadas al ofrecer un contraste llamativo contra el fondo oscuro general.
+- **Justificación**: Este fondo resalta las habilidades seleccionadas al ofrecer un contraste llamativo contra el fondo oscuro general. <br>
+  **Deberia quedar similar a aqui:**
+  <img src="img/Captura1.png" alt="Imagen de demostración de uso de fondo de Perks seleccionadas por la ruleta" style="border: 1px solid white">
+
+#### Fondo de la lista de Perks que el usuario puede seleccionar
+
+- **Imagen utilizada**:
+
+<div style="display: flex; align-items: center;">
+  <img src="img/bgsmoke.jpg" alt="Imagen de fondo de la pagina" width="300" style="border: 1px solid white; margin-right: 15px;">
+  <p>
+    Usamos la misma imagen de textura oscura (<em>bgsmoke.jpg</em>) que usamos en el Fondo Principal de la pagina, ya que alineado con la atmósfera del juego <strong>Dead by Daylight</strong> encaja a la perfección.
+  </p>
+</div>
+
+- **Colores predominantes**: Tonos oscuros y grisáceos, que ayudan a destacar los elementos visuales en primer plano.
+- **Justificación**: Este fondo añade inmersión al entorno del proyecto y permite un diseño limpio y centrado en los elementos funcionales. <br>
+  
+  **Deberia quedar similar a aqui:**
+  <img src="img/Captura2.png" alt="Imagen de demostración de uso de fondo de Perks seleccionadas por la ruleta">
 
 ### Tipografía
 
@@ -57,10 +93,16 @@ Gracias a **Bootstrap 5**, el proyecto es completamente responsivo. Las imágene
 
 ### Pruebas y Ajustes
 
-El proyecto fue probado en los siguientes navegadores populares:
+El proyecto fue probado en los siguientes navegadores:
 - **Google Chrome**
 - **Mozilla Firefox**
 - **Microsoft Edge**
+
+Se probo la responsividad con las siguientes herramientas:
+- **ResponsivelyApp**
+- **Google Chrome DevTools**
+- **Edge DevTools**
+- **Mozilla Firefox DevTools**
 
 ## Instalaciones
 
@@ -92,7 +134,7 @@ El diseño se ha optimizado para pantallas con resolución de 1366x768px, que es
 
 ### Navegadores Compatibles
 
-El proyecto ha sido probado en los siguientes navegadores populares:
+El proyecto ha sido probado en los siguientes navegadores:
 - **Google Chrome**
 - **Mozilla Firefox**
 - **Microsoft Edge**
