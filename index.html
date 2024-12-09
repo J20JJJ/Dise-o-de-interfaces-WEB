@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ruleta de Peaks</title>
+  <title>Ruleta de Perks</title>
   <!-- Link a Bootstrap 5 CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
@@ -16,7 +16,7 @@
       <div class="text-center py-5">
         <img src="/img/cf7928afd766844e654110a341cb111c.png" alt="Logo" class="img-fluid">
       </div>
-      <h1 class="text-center my-4 text-white">Ruleta de Peaks</h1>
+      <h1 class="text-center my-4 text-white">Ruleta de Perks</h1>
     </header>
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -32,9 +32,9 @@
           <h2 class="text-white me-3 mb-0">Categorias:</h2> <!-- Título del navbar -->
           <div class="d-flex flex-column flex-lg-row">
             <!-- Contenedor de los botones, apilados verticalmente en móviles -->
-            <button type="button" class="btn btn-primary btn-lg mx-3 my-2" onclick="cargar_peaks(1,12)">Survi</button>
+            <button type="button" class="btn btn-primary btn-lg mx-3 my-2" onclick="cargar_Perks(1,12)">Survi</button>
             <button type="button" class="btn btn-secondary btn-lg mx-3 my-2"
-              onclick="cargar_peaks(2,14)">Killer</button>
+              onclick="cargar_Perks(2,14)">Killer</button>
           </div>
         </div>
       </div>
@@ -65,7 +65,7 @@
 
     <!-- Imágenes seleccionadas -->
     <section class="mt-4 border-top pt-4" id="selected-images">
-      <h4 class="text-center my-4 text-white">Peaks Seleccionadas</h4>
+      <h4 class="text-center my-4 text-white">Perks Seleccionadas</h4>
       <div id="selected-images-list" class="py-5 d-flex justify-content-center flex-wrap gap-3">
         <!-- Las imágenes seleccionadas aparecerán aquí -->
       </div>
