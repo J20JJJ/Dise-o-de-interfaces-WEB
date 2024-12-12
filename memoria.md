@@ -52,12 +52,22 @@ El diseño visual del proyecto se basa en **Bootstrap 5** combinado con imágene
 #### Fondo de las Perks seleccionadas por la ruleta
 - **Imagen utilizada**: 
   
-<div style="display: flex; align-items: center;">
+<!-- <div style="display: flex; align-items: center;">
   <img src="img/teachable.png" alt="Imagen de fondo de Perks seleccionadas por la ruleta" width="300" style="border: 1px solid white; margin-right: 15px;">
   <p>
     El rombo anaranjado (<em>teachable.png</em>), que se coloca como fondo de las habilidades que aparecen en la ruleta.
   </p>
-</div>
+</div> -->
+
+| ![Imagen de rombo](img/teachable.png) | Este es el texto alineado al centro de la derecha |
+| :-----------------------------------: | :-----------------------------------------------: |
+
+| numero | nombre | apellido |
+| :----: | ------ | -------- |
+|   1    | perico | palotes  |
+
+
+El rombo anaranjado (<em>teachable.png</em>), que se coloca como fondo de las habilidades que aparecen en la ruleta.
 
 - **Colores predominantes**: Anaranjado oscuro con detalles negros, inspirado en los colores característicos de **Dead by Daylight**, generando coherencia visual.
 - **Justificación**: Este fondo resalta las habilidades seleccionadas al ofrecer un contraste llamativo contra el fondo oscuro general. <br>
