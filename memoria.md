@@ -40,11 +40,14 @@ El diseño visual del proyecto se basa en **Bootstrap 5** combinado con imágene
 - **Imagen utilizada**:
 
 <div style="display: flex; align-items: center;">
-  <img src="img/bgsmoke.jpg" alt="Imagen de fondo de la pagina" width="300" style="border: 1px solid white; margin-right: 15px;">
+  <img src="" alt="" width="300" style="border: 1px solid white; margin-right: 15px;">
   <p>
-    La imagen de textura oscura (<em>bgsmoke.jpg</em>), que aporta un ambiente misterioso y sombrío, alineado con la atmósfera del juego <strong>Dead by Daylight</strong>.
+    
   </p>
 </div>
+
+| ![Imagen de fondo de la pagina](img/bgsmoke.jpg){ width: 200px } | La imagen de textura oscura (*bgsmoke.jpg*), que aporta un ambiente misterioso y sombrío, alineado con la atmósfera del juego **Dead by Daylight**. |
+| :----------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 - **Colores predominantes**: Tonos oscuros y grisáceos, que ayudan a destacar los elementos visuales en primer plano.
 - **Justificación**: Este fondo añade inmersión al entorno del proyecto y permite un diseño limpio y centrado en los elementos funcionales.
@@ -52,22 +55,12 @@ El diseño visual del proyecto se basa en **Bootstrap 5** combinado con imágene
 #### Fondo de las Perks seleccionadas por la ruleta
 - **Imagen utilizada**: 
   
-<!-- <div style="display: flex; align-items: center;">
-  <img src="img/teachable.png" alt="Imagen de fondo de Perks seleccionadas por la ruleta" width="300" style="border: 1px solid white; margin-right: 15px;">
-  <p>
-    El rombo anaranjado (<em>teachable.png</em>), que se coloca como fondo de las habilidades que aparecen en la ruleta.
-  </p>
-</div> -->
+| ![Imagen de rombo](img/teachable.png) | El rombo anaranjado (*teachable.png*), que se coloca como fondo de las habilidades que aparecen en la ruleta. |
+| :-----------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
 
-| ![Imagen de rombo](img/teachable.png) | Este es el texto alineado al centro de la derecha |
-| :-----------------------------------: | :-----------------------------------------------: |
-
-| numero | nombre | apellido |
-| :----: | ------ | -------- |
-|   1    | perico | palotes  |
-
-
-El rombo anaranjado (<em>teachable.png</em>), que se coloca como fondo de las habilidades que aparecen en la ruleta.
+<!-- | <!--  | numero | nombre  | apellido |
+| :---: | ------ | ------- |
+|   1   | perico | palotes | -->      | -->
 
 - **Colores predominantes**: Anaranjado oscuro con detalles negros, inspirado en los colores característicos de **Dead by Daylight**, generando coherencia visual.
 - **Justificación**: Este fondo resalta las habilidades seleccionadas al ofrecer un contraste llamativo contra el fondo oscuro general. <br>
