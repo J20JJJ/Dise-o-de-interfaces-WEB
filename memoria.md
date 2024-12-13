@@ -46,7 +46,7 @@ El diseño visual del proyecto se basa en **Bootstrap 5** combinado con imágene
   </p>
 </div>
 
-| ![Imagen de fondo de la pagina](img/bgsmoke.jpg){ width: 200px } | La imagen de textura oscura (*bgsmoke.jpg*), que aporta un ambiente misterioso y sombrío, alineado con la atmósfera del juego **Dead by Daylight**. |
+| ![Imagen de fondo de la página](img/bgsmoke.jpg) | La imagen de textura oscura (*bgsmoke.jpg*), que aporta un ambiente misterioso y sombrío, alineado con la atmósfera del juego **Dead by Daylight**. |
 | :----------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 - **Colores predominantes**: Tonos oscuros y grisáceos, que ayudan a destacar los elementos visuales en primer plano.
@@ -58,35 +58,28 @@ El diseño visual del proyecto se basa en **Bootstrap 5** combinado con imágene
 | ![Imagen de rombo](img/teachable.png) | El rombo anaranjado (*teachable.png*), que se coloca como fondo de las habilidades que aparecen en la ruleta. |
 | :-----------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
 
-<!-- | <!--  | numero | nombre  | apellido |
-| :---: | ------ | ------- |
-|   1   | perico | palotes | -->      | -->
-
 - **Colores predominantes**: Anaranjado oscuro con detalles negros, inspirado en los colores característicos de **Dead by Daylight**, generando coherencia visual.
 - **Justificación**: Este fondo resalta las habilidades seleccionadas al ofrecer un contraste llamativo contra el fondo oscuro general. <br>
   **Deberia quedar similar a aqui:**
-  <img src="img/Captura1.png" alt="Imagen de demostración de uso de fondo de Perks seleccionadas por la ruleta" style="border: 1px solid white">
+  | ![Imagen de demostración de uso de fondo de Perks seleccionadas por la ruleta](img/Captura1.png) | Imagen de demostración de uso de fondo de Perks seleccionadas por la ruleta. |
+  | :----------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
 
 #### Fondo de la lista de Perks que el usuario puede seleccionar
 
 - **Imagen utilizada**:
 
-<div style="display: flex; align-items: center;">
-  <img src="img/bgsmoke.jpg" alt="Imagen de fondo de la pagina" width="300" style="border: 1px solid white; margin-right: 15px;">
-  <p>
-    Usamos la misma imagen de textura oscura (<em>bgsmoke.jpg</em>) que usamos en el Fondo Principal de la pagina, ya que alineado con la atmósfera del juego <strong>Dead by Daylight</strong> encaja a la perfección.
-  </p>
-</div>
+| ![Imagen de fondo de la pagina](img/bgsmoke.jpg) | Usamos la misma imagen de textura oscura (*bgsmoke.jpg*) que usamos en el Fondo Principal de la pagina, ya que alineado con la atmósfera del juego **Dead by Daylight** encaja a la perfección. |
+| :----------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 - **Colores predominantes**: Tonos oscuros y grisáceos, que ayudan a destacar los elementos visuales en primer plano.
 - **Justificación**: Este fondo añade inmersión al entorno del proyecto y permite un diseño limpio y centrado en los elementos funcionales. <br>
   
   **Deberia quedar similar a aqui:**
-  <img src="img/Captura2.png" alt="Imagen de demostración de uso de fondo de Perks seleccionadas por la ruleta">
+  | ![Imagen de rombo](img/Captura2.png) | Imagen de demostración de uso de fondo de Perks seleccionadas por la ruleta. |
+  | :----------------------------------: | :--------------------------------------------------------------------------: |
 
-### Tipografía
-
-El proyecto no utiliza fuentes personalizadas. Los textos utilizan las tipografías predeterminadas de **Bootstrap 5**, asegurando un diseño minimalista y funcional.
+### Tipografía  
+El proyecto utiliza la fuente personalizada **Roboto** para los textos, en combinación con las tipografías predeterminadas de Bootstrap 5, que incluyen **"-apple-system"**, **"BlinkMacSystemFont"**, **"Segoe UI"**, **"Roboto"**, **"Helvetica Neue"**, **"Arial"**, y fuentes genéricas como **"sans-serif"**. Esta configuración asegura un diseño moderno, funcional y minimalista.
 
 ## Consideraciones Técnicas
 
