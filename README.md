@@ -39,14 +39,7 @@ El diseño visual del proyecto se basa en **Bootstrap 5** combinado con imágene
 #### Fondo Principal
 - **Imagen utilizada**:
 
-<div style="display: flex; align-items: center;">
-  <img src="" alt="" width="300" style="border: 1px solid white; margin-right: 15px;">
-  <p>
-    
-  </p>
-</div>
-
-| ![Imagen de fondo de la página](img/bgsmoke.jpg) | La imagen de textura oscura (*bgsmoke.jpg*), que aporta un ambiente misterioso y sombrío, alineado con la atmósfera del juego **Dead by Daylight**. |
+| ![Imagen de fondo de la página](assets/img/bgsmoke.jpg) | La imagen de textura oscura (*bgsmoke.jpg*), que aporta un ambiente misterioso y sombrío, alineado con la atmósfera del juego **Dead by Daylight**. |
 | :----------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 - **Colores predominantes**: Tonos oscuros y grisáceos, que ayudan a destacar los elementos visuales en primer plano.
@@ -55,27 +48,27 @@ El diseño visual del proyecto se basa en **Bootstrap 5** combinado con imágene
 #### Fondo de las Perks seleccionadas por la ruleta
 - **Imagen utilizada**: 
   
-| ![Imagen de rombo](img/teachable.png) | El rombo anaranjado (*teachable.png*), que se coloca como fondo de las habilidades que aparecen en la ruleta. |
+| ![Imagen de rombo](assets/img/teachable.png) | El rombo anaranjado (*teachable.png*), que se coloca como fondo de las habilidades que aparecen en la ruleta. |
 | :-----------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
 
 - **Colores predominantes**: Anaranjado oscuro con detalles negros, inspirado en los colores característicos de **Dead by Daylight**, generando coherencia visual.
 - **Justificación**: Este fondo resalta las habilidades seleccionadas al ofrecer un contraste llamativo contra el fondo oscuro general. <br>
   **Deberia quedar similar a aqui:**
-  | ![Imagen de demostración de uso de fondo de Perks seleccionadas por la ruleta](img/Captura1.png) | Imagen de demostración de uso de fondo de Perks seleccionadas por la ruleta. |
+  | ![Imagen de demostración de uso de fondo de Perks seleccionadas por la ruleta](assets/img/Captura1.png) | Imagen de demostración de uso de fondo de Perks seleccionadas por la ruleta. |
   | :----------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
 
 #### Fondo de la lista de Perks que el usuario puede seleccionar
 
 - **Imagen utilizada**:
 
-| ![Imagen de fondo de la pagina](img/bgsmoke.jpg) | Usamos la misma imagen de textura oscura (*bgsmoke.jpg*) que usamos en el Fondo Principal de la pagina, ya que alineado con la atmósfera del juego **Dead by Daylight** encaja a la perfección. |
+| ![Imagen de fondo de la pagina](assets/img/bgsmoke.jpg) | Usamos la misma imagen de textura oscura (*bgsmoke.jpg*) que usamos en el Fondo Principal de la pagina, ya que alineado con la atmósfera del juego **Dead by Daylight** encaja a la perfección. |
 | :----------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 - **Colores predominantes**: Tonos oscuros y grisáceos, que ayudan a destacar los elementos visuales en primer plano.
 - **Justificación**: Este fondo añade inmersión al entorno del proyecto y permite un diseño limpio y centrado en los elementos funcionales. <br>
   
   **Deberia quedar similar a aqui:**
-  | ![Imagen de rombo](img/Captura2.png) | Imagen de demostración de uso de fondo de Perks seleccionadas por la ruleta. |
+  | ![Imagen de rombo](assets/img/Captura2.png) | Imagen de demostración de uso de fondo de Perks seleccionadas por la ruleta. |
   | :----------------------------------: | :--------------------------------------------------------------------------: |
 
 ### Tipografía  

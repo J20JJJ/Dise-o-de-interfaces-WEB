@@ -1,6 +1,6 @@
 body {
   font-family: 'Roboto', sans-serif;
-  background-image: url('/img/bgsmoke.jpg');
+  background-image: url('/assets/img/bgsmoke.jpg');
   overflow-x: hidden;
 }
 
@@ -13,7 +13,7 @@ body {
 }
 
 .img-thumbnail {
-  background-image: url('/img/bgsmoke.jpg');
+  background-image: url('/assets/img/bgsmoke.jpg');
 }
 
 @keyframes ruleta-animacion {
@@ -32,7 +32,7 @@ body {
 
 
 .ruleta-img {
-  background-image: url('/img/teachable.png');
+  background-image: url('/assets/img/teachable.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;

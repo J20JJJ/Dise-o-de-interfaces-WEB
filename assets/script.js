@@ -15,10 +15,10 @@
           const imgElement = document.createElement('img');
           switch (categoria) {
             case 1:
-              imgElement.src = `/img/survi/perk (${i}).png`;
+              imgElement.src = `assets/img/survi/perk (${i}).png`;
               break;
             case 2:
-              imgElement.src = `/img/killer/perk_K (${i}).png`;
+              imgElement.src = `assets/img/killer/perk_K (${i}).png`;
               break;
           }
   
